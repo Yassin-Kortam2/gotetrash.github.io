@@ -1,1 +1,1 @@
-# ewaste.github.io
+# gotetrash.github.io
